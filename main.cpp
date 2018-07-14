@@ -61,7 +61,7 @@ int main(int argc, char *argv[])
         staticPointerCast<Matrix<double>, NumericTable>(algorithm.getResult()->get(cholesky::choleskyFactor));
 
     /* Print the first element of the Cholesky factor */
-    std::cout << "The first element of the Cholesky factor: " << (*factor)[0][0];
+    std::cout << "The first element of the Cholesky factor:\n\t" << (*factor)[0][0] <<std::endl;
 
     return 0;
 }
