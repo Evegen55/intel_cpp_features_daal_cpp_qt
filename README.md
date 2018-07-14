@@ -1,6 +1,10 @@
 # Simple DAAL C++ example 
-## built from Intel src with GCC with Ubuntu 16.04.04 with pre-installed Intel TBB library
-## using Qt Creator (Community) IDE
+## built from Intel src with:
+ 
+ - Ubuntu 16.04.04 LTS
+ - GCC 64bit
+ - Qt Creator (Community) IDE
+ - pre-installed Intel TBB library
 
 
 **Result**:
