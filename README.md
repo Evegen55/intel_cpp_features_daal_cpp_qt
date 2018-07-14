@@ -1,4 +1,6 @@
-# Simple DAAL C++ example built from Intel src with GCC with Ubuntu 16.04.04 with pre-installed Intel TBB library
+# Simple DAAL C++ example 
+## built from Intel src with GCC with Ubuntu 16.04.04 with pre-installed Intel TBB library
+
 
 **Result: **:
 
